@@ -1,4 +1,14 @@
-123 
-123 
-ECHO is on.
-"" 
+ Volume in drive C is Windows
+ Volume Serial Number is 9C88-39A2
+
+ Directory of C:\Users\GL63\Desktop\gitOne
+
+07/26/2021  01:45 PM    <DIR>          .
+07/26/2021  01:45 PM    <DIR>          ..
+07/26/2021  02:08 PM                 0 fileOne.txt
+07/26/2021  11:08 AM                 0 fileTwo.txt
+07/26/2021  01:45 PM                 5 firstOne.txt
+07/26/2021  11:11 AM                18 README.md
+               4 File(s)             23 bytes
+               2 Dir(s)  39,940,739,072 bytes free
+nul 
